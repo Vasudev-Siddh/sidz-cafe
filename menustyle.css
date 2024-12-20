@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Almendra+Display&display=swap');
+*::-webkit-scrollbar{
+    display: none;
+}
+body{
+    margin: 0;
+    background-color: #000;
+ 
+}
+/* ###############NAV-BAR################### */
+.navbar ul{
+    list-style-type:none ;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+.navbar a{
+    color: #e6be8a;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+
+}
+.navbar li{
+    float: right;
+    
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+       
+    background-color: rgba(255, 255, 255, .15);  
+ backdrop-filter: blur(5px);
+}
+
+.nav-bar{
+    z-index: 1;
+    width: 100%;
+    background-color: #000;
+}
+.Name{
+    margin-left: 300px;
+    letter-spacing: 5px;
+    align-items: end;
+    font-family: "Quattrocento"+"Alice", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #a9927d;
+}
+.logoimg{
+    padding: 0;
+    margin: 0;
+}
+.navbar a:hover{
+    color: azure;
+    background-color:#a9927dfb ;
+    transition: 1s;
+    border-radius: 50%;
+}
+.navbar a:hover:after{
+    width:100%;
+}
+/* #########################BANNER############################# */
+.banner{
+    width: 100%;
+    height: 60vh;
+    display: grid;
+    place-items: center;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.imgslider{
+    width: 100%;
+    height: 60vh;
+    background-image: url(ban1.png);
+    position:relative;
+
+    top: 0;
+    background-size: 100% 100%;
+    animation: changeImage 10s linear infinite;
+    opacity: 0.5;
+}
+@keyframes changeImage {
+    0%{
+        background-image: url(ban1.png);
+    }
+    50%{
+        background-image: url(ban2.png);
+    }
+    75%{
+        background-image: url(ban3.png);
+    }
+    100%{
+        background-image: url(ban4.png);
+    }
+}
+
+.bantitle{
+    color: #e6be8a;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-130%);
+}
+.bantitle h1{
+    padding: 0;
+    margin: 0;
+    font-size: 100px;
+    text-align: center;
+    color: #e6be8a;
+    font-weight: bold;
+    text-shadow: -10px 2px 5px #3a3834 ;
+    font-family: "Quattrocento"+"Alice", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.bantitle h2{
+    font-size: 30px;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    text-shadow: -5px 1px 3px #3a3834 ;
+}
+/* ##############footer################## */
+.footer{
+    clear: both;
+    color:#e6be8a;
+    height: 300px;
+    width: 100%;
+    float: bottom;
+    font-size: larger;
+    border: 10px;
+    background-color: #0b110e00;
+}
+.footer1 h1{
+    text-align: center;
+    padding-top: 40px;
+} 
+.footer1 img{
+    float: left;
+    margin-top: 25px;
+    margin-left: 65px;
+}
+.footer1 img:hover{
+    background-color:#a9927dfb ;
+    transition: 1s;
+    border-radius: 100%;
+}
+/* #############STICKY FOOTER################### */
+.stickyfooter{
+    clear: both;
+    background-color: #000000;
+    height: 60px;
+    position: sticky;
+    bottom: 0;
+}
+.footd{
+    width:25%;
+    margin-top: 4px;
+    float: left;
+    align-items: center;
+    padding-top: 14px;
+}
+.footd img{
+    margin-left: 43%;
+    padding-bottom: 7px;
+}
+.footer1{
+    align-items: center;
+    width: 50%;
+    height: 296px;
+    float: left;
+}
+.a1{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.footd:hover{
+    background-color:#a9927db8 ;
+    transition: 0.5s;
+    border-radius: 50%;
+    border-color:ghostwhite;
+}

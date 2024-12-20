@@ -1,0 +1,715 @@
+[
+    {
+        "id": 1,
+        "name": "BUTTER TOAST",
+        "price": 40
+    },
+    {
+        "id": 2,
+        "name": "POHA",
+        "price": 60
+    },
+    {
+        "id": 3,
+        "name": "ALOO PARANTHA",
+        "price": 40
+    },
+    {
+        "id": 4,
+        "name": "GOBI PARANTHA",
+        "price": 40
+    },
+    {
+        "id": 5,
+        "name": "MIX WEG PRANTHA",
+        "price": 50
+    },
+    {
+        "id": 6,
+        "name": "PANEER PARANTHA",
+        "price": 70
+    },
+    {
+        "id": 7,
+        "name": "PLAIN MAGGI",
+        "price": 50
+    },
+    {
+        "id": 8,
+        "name": "VEG MAGGI",
+        "price": 60
+    },
+    {
+        "id": 9,
+        "name": "CHEESE MAGGI",
+        "price": 80
+    },
+    {
+        "id": 10,
+        "name": "GARLIC TADKA MAGGI",
+        "price": 70
+    },
+    {
+        "id": 11,
+        "name": "FRENCH FRIES",
+        "price": 70
+    },
+    {
+        "id": 12,
+        "name": "MIX VEG PAKODA",
+        "price": 110
+    },
+    {
+        "id": 13,
+        "name": "PANNER PAKODA",
+        "price": 130
+    },
+    {
+        "id": 14,
+        "name": "BREAD PAKODA",
+        "price": 80
+    },
+    {
+        "id": 15,
+        "name": "CHEESE BALLS",
+        "price": 150
+    },
+    {
+        "id": 16,
+        "name": "PANEER TIKKA",
+        "price": 220
+    },
+    {
+        "id": 17,
+        "name": "COLD COFFEE",
+        "price": 80
+    },
+    {
+        "id": 18,
+        "name": "CHOCOLATE SHAKE",
+        "price": 100
+    },
+    {
+        "id": 19,
+        "name": "KIT KAT SHAKE",
+        "price": 110
+    },
+    {
+        "id": 20,
+        "name": "OREO SHAKE",
+        "price": 120
+    },
+    {
+        "id": 21,
+        "name": "STRAWBERRY SHAKE",
+        "price": 110
+    },
+    {
+        "id": 22,
+        "name": "VANILA SHAKE",
+        "price": 100
+    },
+    {
+        "id": 23,
+        "name": "BUTTERSCOTCH SHAKE",
+        "price": 110
+    },
+    {
+        "id": 24,
+        "name": "KESAR BADAM SHAKE",
+        "price": 130
+    },
+    {
+        "id": 25,
+        "name": "LEMON JUICE",
+        "price": 50
+    },
+    {
+        "id": 26,
+        "name": "SODA LEMON JUICE",
+        "price": 70
+    },
+    {
+        "id": 27,
+        "name": "ICE TEA",
+        "price": 100
+    },
+    {
+        "id": 28,
+        "name": "VIRGIN MOJITO",
+        "price": 150
+    },
+    {
+        "id": 29,
+        "name": "VIRHIN MARGARITA",
+        "price": 200
+    },
+    {
+        "id": 30,
+        "name": "VIRGIN PINA COLADA",
+        "price": 250
+    },
+    {
+        "id": 31,
+        "name": "X ON THE BEACH",
+        "price": 200
+    },
+    {
+        "id": 32,
+        "name": "VIRGIN BLOODY MARY",
+        "price": 300
+    },
+    {
+        "id": 33,
+        "name": "MARGHEITA PIZZA(8'')",
+        "price": 90
+    },
+    {
+        "id": 34,
+        "name": "MARGHEITA PIZZA(10'')",
+        "price": 120
+    },
+    {
+        "id": 35,
+        "name": "SINGLE TOPPING PIZZA(8'')",
+        "price": 110
+    },
+    {
+        "id": 36,
+        "name": "SINGLE TOPPING PIZZA(10'')",
+        "price": 140
+    },
+    {
+        "id": 37,
+        "name": "VEGGIE PIZZA(8'')",
+        "price": 130
+    },
+    {
+        "id": 38,
+        "name": "VEGGIE PIZZA(10'')",
+        "price": 160
+    },
+    {
+        "id": 39,
+        "name": "DOUBLE CHEESE PIZZA(8'')",
+        "price": 150
+    },
+    {
+        "id": 40,
+        "name": "DOUBLE CHEESE PIZZA(10'')",
+        "price": 200
+    },
+    {
+        "id": 41,
+        "name": "PANEER ONION PIZZA(8'')",
+        "price": 160
+    },
+    {
+        "id": 42,
+        "name": "PANEER ONION PIZZA(10'')",
+        "price": 210 
+    },
+    {
+        "id": 43,
+        "name": "VEGGIE DEELGHT PIZZA(8'')",
+        "price": 170
+    },
+    {
+        "id": 44,
+        "name": "VEGGIE DEELGHT PIZZA(10'')",
+        "price": 220
+    },
+    {
+        "id": 45,
+        "name": "SPICY PANEER PIZZA(8'')",
+        "price": 180
+    },
+    {
+        "id": 46,
+        "name": "SPICY PANEER PIZZA(10'')",
+        "price": 240
+    },
+    {
+        "id": 48,
+        "name": "SIDZ SPECIAL PIZZA(8'')",
+        "price": 250
+    },
+    {
+        "id": 49,
+        "name": "SIDZ SPECIAL PIZZA(10'')",
+        "price": 300
+    },
+    {
+        "id": 50,
+        "name": "RED SAUCE PASTA",
+        "price": 150
+    },
+    {
+        "id": 51,
+        "name": "PINK SAUCE PASTA",
+        "price": 170
+    },
+    {
+        "id": 52,
+        "name": "WHITE SAUCE PASTA",
+        "price": 180
+    },
+    {
+        "id": 53,
+        "name": "TANDOORI PASTA",
+        "price": 200
+    },
+    {
+        "id": 54,
+        "name": "BUTTER GARLIC BREAD",
+        "price": 70
+    },
+    {
+        "id": 55,
+        "name": "CHEESE GARLIC BREAD",
+        "price": 110
+    },
+    {
+        "id": 56,
+        "name": "STUFFED GARLIC BREAD",
+        "price": 150
+    },
+    {
+        "id": 57,
+        "name": "TOMATO SOUP",
+        "price": 70
+    },
+    {
+        "id": 58,
+        "name": "HOT'N SOUR SOUP",
+        "price": 70
+    },
+    {
+        "id": 59,
+        "name": "SWEET CORN SOUP",
+        "price": 80
+    },
+    {
+        "id": 60,
+        "name": "VEG STEAMED MOMOS",
+        "price": 80
+    },
+    
+    {
+        "id": 61,
+        "name": "VEGH FRIED MOMOS",
+        "price": 150
+    },
+    {
+        "id": 62,
+        "name": "SPRING ROLL(PLAIN)",
+        "price": 150
+    },
+    {
+        "id": 63,
+        "name": "SPRING ROLL(CHEESE)",
+        "price": 180
+    },
+    {
+        "id": 64,
+        "name": "CHILLI POTATO",
+        "price": 150
+    },
+    {
+        "id": 65,
+        "name": "HONEY CHILLI POTATO",
+        "price": 180
+    },
+    {
+        "id": 66,
+        "name": "CHILLI PANEER",
+        "price": 220
+    },
+    {
+        "id": 67,
+        "name": "CRISPY CORN",
+        "price": 110
+    },
+    {
+        "id": 68,
+        "name": "MANCHURIAN(DRY)",
+        "price": 120
+    },
+    {
+        "id": 69,
+        "name": "MANCHURIAN(GRAVEY)",
+        "price": 140
+    },
+    {
+        "id": 70,
+        "name": "VEG FRIED RICE",
+        "price": 110
+    },
+    {
+        "id": 71,
+        "name": "SCHEZWAN FRIED RICE",
+        "price": 120
+    },
+    {
+        "id": 72,
+        "name": "PANEER FRIED RICE",
+        "price": 140
+    },
+    {
+        "id": 73,
+        "name": "MANCHURIAN FRIED RICE",
+        "price": 150
+    },
+    {
+        "id": 74,
+        "name": "SCHEZWAN NOODLES",
+        "price": 120
+    },
+    {
+        "id": 75,
+        "name": "VEG CHOWMEIN",
+        "price": 120
+    },
+    {
+        "id": 76,
+        "name": "MANCHURIAN NOODLES",
+        "price": 150
+    },
+    {
+        "id": 77,
+        "name": "VEG SANDWICH(PLAIN)",
+        "price": 50
+    },
+    {
+        "id": 78,
+        "name": "ALOO TIKKI SANDWICH(PLAIN)",
+        "price": 70
+    },
+    {
+        "id": 79,
+        "name": "VEG MAYO SANDWICH(PLAIN)",
+        "price": 80
+    },
+    
+    {
+        "id": 80,
+        "name": "CHEESE SANDWICH(PLAIN)",
+        "price": 90
+    },
+    {
+        "id": 81,
+        "name": "BOMBAY CHAT SANDWICH(PLAIN)",
+        "price": 90
+    },
+    {
+        "id": 82,
+        "name": "TANDOORI PANEER SANDWICH(PLAIN)",
+        "price": 110
+    },
+    {
+        "id": 83,
+        "name": "PIZZA SANDWICH(PLAIN)",
+        "price": 120
+    }, 
+    {
+        "id": 84,
+        "name": "GRILLED",
+        "price": 20
+    },
+    {
+        "id": 85,
+        "name": "VEG BURGER(NO TIKKI)",
+        "price": 40
+    },
+    {
+        "id": 86,
+        "name": "ALOO TIKKI BURGER",
+        "price": 50
+    },
+    {
+        "id": 87,
+        "name": "CHEESE BURGER",
+        "price": 80
+    },
+    {
+        "id": 88,
+        "name": "MAHARAJA BURGER",
+        "price": 120
+    },
+    {
+        "id": 89,
+        "name": "WITH FRIES",
+        "price": 30
+    },
+    {
+        "id": 90,
+        "name": "WITH FRIES AND DRINKS",
+        "price": 50
+    },
+    {
+        "id": 91,
+        "name": "ALOO JEERA",
+        "price": 140
+    },
+    {
+        "id": 92,
+        "name": "ALOO PALAK",
+        "price": 130
+    },
+    {
+        "id": 93,
+        "name": "ALOO CHOLE",
+        "price": 130
+    },
+    {
+        "id": 94,
+        "name": "ALOO MATAR",
+        "price": 120
+    },
+    {
+        "id": 95,
+        "name": "ALOO DO PYAZA",
+        "price": 120
+    },
+    {
+        "id": 96,
+        "name": "DUM ALOO",
+        "price": 140
+    },
+    {
+        "id": 97,
+        "name": "MIX VEG",
+        "price": 150
+    },
+    {
+        "id": 98,
+        "name": "SEV TOMATO",
+        "price": 150
+    },
+    {
+        "id": 99,
+        "name": "VHANA MASALA",
+        "price": 150
+    },
+    {
+        "id": 100,
+        "name": "MATAR MALAI",
+        "price": 180
+    },
+    {
+        "id": 101,
+        "name": "SEV BHAJI",
+        "price": 180
+    },
+    {
+        "id": 102,
+        "name": "BHINDI MASALA",
+        "price": 180
+    },
+    {
+        "id": 103,
+        "name": "MALAI KOFTA",
+        "price": 230
+    },
+    {
+        "id": 104,
+        "name": "KAJU CURRY",
+        "price": 260
+    },
+    {
+        "id": 105,
+        "name": "MUSHROOM MAASALA",
+        "price": 220
+    },
+    {
+        "id": 106,
+        "name": "MATAR MUSHROOM",
+        "price": 200
+    },
+    {
+        "id": 107,
+        "name": "PANEER PALAK",
+        "price": 180
+    },
+    {
+        "id": 108,
+        "name": "PANEER DO PYAZA",
+        "price": 210
+    },
+    {
+        "id": 109,
+        "name": "PANEER BUTTER MASALA",
+        "price": 220
+    },
+    {
+        "id": 110,
+        "name": "PANEER BHURJI",
+        "price": 230
+    },
+    {
+        "id": 111,
+        "name": "MATAR PANEER",
+        "price": 200
+    },
+    {
+        "id": 112,
+        "name": "KADAI PANEER",
+        "price": 230
+    },
+    {
+        "id": 113,
+        "name": "SHAHI PANEER",
+        "price": 240
+    },
+    {
+        "id": 114,
+        "name": "GATTA MASALA",
+        "price": 180
+    },
+    {
+        "id": 115,
+        "name": "GATTA PYAAJ",
+        "price": 190
+    },
+    {
+        "id": 116,
+        "name": "GARLIC CHUTNEY(HALF)",
+        "price": 90
+    },
+    {
+        "id": 117,
+        "name": "PLAIN DAL",
+        "price": 90
+    },
+    {
+        "id": 118,
+        "name": "DAL FRY",
+        "price": 120
+    },
+    {
+        "id": 119,
+        "name": "DAL DOUBLE TADKA",
+        "price": 150
+    },
+    {
+        "id": 120,
+        "name": "PLAIN ROTI",
+        "price": 12
+    },
+    {
+        "id": 121,
+        "name": "BUTTER ROTI",
+        "price": 15
+    },
+    {
+        "id": 122,
+        "name": "PLAIN NAAN",
+        "price": 50
+    },
+    {
+        "id": 123,
+        "name": "BUTTER NAAN",
+        "price": 60
+    },
+    {
+        "id": 124,
+        "name": "GARLIC NAAN",
+        "price": 90
+    },
+    {
+        "id": 125,
+        "name": "PANEER NAAN",
+        "price": 100
+    },
+    {
+        "id": 126,
+        "name": "MISSI ROTI",
+        "price": 35
+    },
+    {
+        "id": 127,
+        "name": "PLAIN RICE",
+        "price": 90
+    },
+    {
+        "id": 128,
+        "name": "JEERA RICE",
+        "price": 120
+    },
+    {
+        "id": 129,
+        "name": "VEG PULLAV",
+        "price": 180
+    },
+    {
+        "id": 130,
+        "name": "ONION SALAD",
+        "price": 20
+    },
+    {
+        "id": 131,
+        "name": "GREEN SALAD",
+        "price": 50
+    },
+    {
+        "id": 132,
+        "name": "ROASTED PAPAD",
+        "price": 25
+    },
+    {
+        "id": 133,
+        "name": "MASALA PAPAD",
+        "price": 40
+    },
+    {
+        "id": 134,
+        "name": "PEANUT MASASLA",
+        "price": 100
+    },
+    {
+        "id": 135,
+        "name": "CHANA CHAAT",
+        "price": 120
+    },
+    {
+        "id": 136,
+        "name": "DAHI",
+        "price": 50
+    },
+    {
+        "id": 137,
+        "name": "FRIED RAITA",
+        "price": 60
+    },
+    {
+        "id": 138,
+        "name": "ONION RAITA",
+        "price": 60
+    },
+    {
+        "id": 139,
+        "name": "VEG RAITA",
+        "price": 70
+    },
+    {
+        "id": 140,
+        "name": "BUNDI RAITA",
+        "price": 70
+    },
+    {
+        "id": 141,
+        "name": "CHAACH(SALTED)",
+        "price": 40
+    },
+    {
+        "id": 142,
+        "name": "LASSI(SWEET)",
+        "price": 50
+    },
+    {
+        "id": 143,
+        "name": "PINEAPPLE RAITA",
+        "price": 120
+    }
+
+]
